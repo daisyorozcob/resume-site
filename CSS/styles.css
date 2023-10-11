@@ -13,6 +13,11 @@ h1 {
     padding: 20px;
 }
 
+.columnHeader {
+    font-size: 25px;
+    font-style: italic;
+}
+
 body {
     background-color:rgb(234, 232, 232);
 }
@@ -39,3 +44,14 @@ body {
     border-radius: 15px;
 }
 
+.aboutMe {
+    font-size: 18px;
+}
+
+.columnHeaderSmall {
+    font-size: 20px;
+}
+
+#driversLicense {
+    font-style:italic;
+}
