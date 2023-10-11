@@ -1,0 +1,41 @@
+h1 {
+    float: left;
+    font-size: 35px;
+    padding: 30px;
+    text-align: left;
+    width: 100%;
+}
+
+.banner {
+    font-size: 25px;
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+body {
+    background-color:rgb(234, 232, 232);
+}
+
+.column1 {
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 40%;
+    height: auto;
+    display: block;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.column2 {
+    float: right;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    width: 40%;
+    height: auto;
+    display: block;
+    padding: 20px;
+    border-radius: 15px;
+}
+
